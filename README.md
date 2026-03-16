@@ -43,6 +43,13 @@ Run the pipeline:
 python src/run_pipeline.py
 ```
 
+Pipeline summary will be written to:
+
+```text
+results/pipeline_summary.txt
+```
+
+
 ## Notes
 
 This repository contains demonstration implementations illustrating scalable machine learning engineering patterns using Dask.
